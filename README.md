@@ -2,4 +2,4 @@
 
 Tv Cidade Verde 
 
-Analisador de statos Digital Multplexer
+Analisador da tabela do Digital Multplexer
